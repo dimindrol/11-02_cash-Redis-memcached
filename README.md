@@ -14,10 +14,10 @@
 ### Задание 4
 Установили и запустили REDIS 
 ![image](https://github.com/dimindrol/11-02_cash-Redis-memcached/assets/103885836/3096525a-2619-4fcc-b22c-cc78505668e2)
-Записали несколько значений
-![image](https://github.com/dimindrol/11-02_cash-Redis-memcached/assets/103885836/b0429af9-1243-46a2-934a-21eaa859cb40)
-Достали все значения из базы 
-![image](https://github.com/dimindrol/11-02_cash-Redis-memcached/assets/103885836/a82d2480-bd96-4523-a115-adf8cf0b32de)
+Записали несколько значений  
+![image](https://github.com/dimindrol/11-02_cash-Redis-memcached/assets/103885836/b0429af9-1243-46a2-934a-21eaa859cb40)  
+Достали все значения из базы   
+![image](https://github.com/dimindrol/11-02_cash-Redis-memcached/assets/103885836/a82d2480-bd96-4523-a115-adf8cf0b32de)  
 
 
 
